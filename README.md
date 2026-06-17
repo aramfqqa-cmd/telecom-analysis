@@ -22,8 +22,13 @@ Ejecuta las celdas en orden
 El notebook carga automáticamente el dataset desde /data/ o desde un enlace público (según corresponda)
 
 🧠 **Objetivo del análisis**
+
 Identificar problemas de calidad de datos
+
 Limpieza de datos (valores inválidos, sentinels, tipos de datos [dtype])
+
 Analizar comportamientos, distribuciones y outliers
+
 Generar insights para el equipo de Estrategia e Integración de Telecom (ConnectaTel)
+
 Generar recomendaciones conforme a las conclusiones generadas. 
