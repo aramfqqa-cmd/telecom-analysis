@@ -15,10 +15,12 @@ O:
 
 Abre el archivo .ipynb en GitHub
 Haz clic en Open in Colab
+
 📘 **Cómo reproducir el análisis**
 Abre notebooks/telecom_analysis.ipynb
 Ejecuta las celdas en orden
 El notebook carga automáticamente el dataset desde /data/ o desde un enlace público (según corresponda)
+
 🧠 **Objetivo del análisis**
 Identificar problemas de calidad de datos
 Limpieza de datos (valores inválidos, sentinels, tipos de datos [dtype])
