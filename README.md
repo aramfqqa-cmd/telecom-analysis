@@ -23,12 +23,12 @@ El notebook carga automáticamente el dataset desde /data/ o desde un enlace pú
 
 🧠 **Objetivo del análisis**
 
-Identificar problemas de calidad de datos
+1) Identificar problemas de calidad de datos
 
-Limpieza de datos (valores inválidos, sentinels, tipos de datos [dtype])
+2) Limpieza de datos (valores inválidos, sentinels, tipos de datos [dtype])
 
-Analizar comportamientos, distribuciones y outliers
+3) Analizar comportamientos, distribuciones y outliers
 
-Generar insights para el equipo de Estrategia e Integración de Telecom (ConnectaTel)
+4) Generar insights para el equipo de Estrategia e Integración de Telecom (ConnectaTel)
 
-Generar recomendaciones conforme a las conclusiones generadas. 
+5) Generar recomendaciones conforme a las conclusiones generadas. 
