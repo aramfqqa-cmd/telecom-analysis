@@ -9,7 +9,7 @@ notebooks/telecom_analysis.ipynb → Notebook principal con limpieza, EDA, distr
 ▶ **Cómo abrir el notebook en Google Colab**
 Haz clic en el siguiente botón:
 
-https://colab.research.google.com/drive/1W3T8e-MvADl2Eq_NNaRweoaCCWn1oHBQ
+https://colab.research.google.com/drive/15P8dTCjHxyC4lasT7gx-7sgVJq2vuxau
 
 O:
 
